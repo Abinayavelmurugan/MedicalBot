@@ -1,0 +1,8 @@
+head function in data frame is used to return first five rows of the record if number is not specified
+head(n)
+libraries:
+pandas-for data manipulation and data analysis
+numpy-for computation purpose
+seaborn=for asesthetics
+matplotlib-for plotting purpose
+
